@@ -6,4 +6,7 @@ In this repository, I have created index.html. In there, there is all you need f
 
 Bugs? Tell me in Issues! I'll reply ASAP.  
 
+WARNING: In Progress.  
+
+
 See it in action! https://grabify.link/OXN67T.
